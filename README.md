@@ -20,3 +20,11 @@
   </div>
 </div>
 
+##
+<h3 align="center">Contate-me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/saulo-s-oliveira-953bb220b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saulosoliveira" height="40" width="50" /></a>
+<a href="https://instagram.com/f3ckvision.mp4?igshid=MzRlODBiNWFlZA==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saulosoliveira" height="40" width="50" /></a>
+</p>
+
+##
