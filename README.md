@@ -1,6 +1,6 @@
 ## Olá 👋
 
-👨‍💻 Sou studante universitário de Análise e Desenvolvimento de Sistemas, apaixonado por código e tecnologia.
+👨‍💻 Sou estudante universitário de Análise e Desenvolvimento de Sistemas, apaixonado por código e tecnologia.
 
 🌐 Aprendendo sobre o mundo do Desenvolvimento Web Java no Instituto Proa.
 
